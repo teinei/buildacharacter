@@ -2,4 +2,4 @@
 
 # git init
 
-# git remote add "https://github.com/teinei/buildacharacter/"
+# git remote add github "https://github.com/teinei/buildacharacter/"
